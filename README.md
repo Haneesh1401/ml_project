@@ -35,21 +35,7 @@ The project includes:
 
 ## Project Structure
 
-ml_project/
-├─ data/
-│ └─ iris.csv # Iris dataset
-├─ models/ # Saved trained ML models
-├─ results/ # Summary of results
-├─ src/
-│ ├─ init.py
-│ ├─ data_loader.py # Load dataset
-│ ├─ process.py # Preprocessing (split + scaling)
-│ ├─ train_model.py # Define and train ML models
-│ ├─ evaluate.py # Model evaluation
-│ └─ utils.py # Utility functions (save model, logging)
-├─ main.py # Main script to run the project
-├─ requirements.txt # Python dependencies
-└─ README.md # Project documentation
+
 
 
 
