@@ -33,7 +33,22 @@ The project includes:
 
 
 
-## Project Structure
+## Exploratory Data Analysis
+
+We provide a Jupyter Notebook `exploratory.ipynb` to explore the Iris dataset before training models.  
+
+This notebook includes:
+- Viewing the first few rows of the dataset
+- Checking dataset info and statistical summary
+- Visualizing **class distribution**
+- Plotting **pairwise feature relationships**
+- Showing **feature correlation heatmap**
+- Saving a cleaned version of the dataset (optional)
+
+To run the notebook:
+
+```bash
+jupyter notebook exploratory.ipynb
 
 
 
