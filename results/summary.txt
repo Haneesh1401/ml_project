@@ -1,0 +1,4 @@
+Dummy: 0.3333
+LogReg: 0.9733
+SVM: 0.9733
+RandomForest: 1.0000
